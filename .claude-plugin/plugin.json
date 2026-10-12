@@ -1,0 +1,11 @@
+{
+  "name": "memo-aside",
+  "displayName": "Memo Aside",
+  "version": "0.1.0",
+  "description": "Jot down a passing thought with \"memo:\" without interrupting Claude's current work, and review the saved memos later.",
+  "author": {
+    "name": "Rurimpa"
+  },
+  "license": "MIT",
+  "keywords": ["memo", "notes", "inbox", "japanese"]
+}
