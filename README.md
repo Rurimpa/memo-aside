@@ -49,7 +49,7 @@ GitHub の issue（質問・不具合の知らせ）は歓迎しますが、返�
 
 ## Author
 
-Made by Rurimpa.
+Author: Rurimpa
 
 ## License
 
